@@ -30,7 +30,7 @@ While this intersection of biology and technology is more often told as an excit
 
 As Arthur Clark said, "Any sufficiently advanced technology is like Magic." However, the magic can be potentially devastating. So, the values are so necessary for the visions of the futures that we can have today. Technology will shape that future, but humans make technology. How we decide what that future will be is up to all of us.
 
-![just an asthetic adding picture that felt like depicting the union of biology and engineering]()
+![just an asthetic adding picture that felt like depicting the union of biology and engineering](/images/engandbio.png)
 
 just an asthetic adding picture that felt like depicting the union of biology and engineering
 
