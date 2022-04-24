@@ -18,7 +18,7 @@ Years passed and years passed, Alan worked towards mathematics and solving puzzl
 
 Did Alan do it? Broke the code? 
 
-![Alan in the Bosham Village, August 1939.]()
+![Alan in the Bosham Village, August 1939.](/images/alan%20on%20boat.png)
 
 Alan in the Bosham Village, August 1939. 
 
