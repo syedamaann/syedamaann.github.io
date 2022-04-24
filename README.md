@@ -47,6 +47,9 @@ Syed Amaan
 ---
 
 I write my thoughts, here are some more - \
+[Alan Turing](/blogs/6-april-2022.md) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   06 April 2022
+[Union of Engineering and Biology]() &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; second half, 2021
+
 
 
 
