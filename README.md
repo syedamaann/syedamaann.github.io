@@ -1,6 +1,6 @@
 
 # 👋🌎 
-#### Bio &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; CV &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  Blogs &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  Bookshelf &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Github &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Twitter
+#### [Bio](/main/Bio.md) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [CV]() &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  [Blogs]() &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  [Bookshelf]() &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [Github]() &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [Twitter]()
 
 --- 
 
