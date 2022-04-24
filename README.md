@@ -12,6 +12,7 @@ If you are someone who is nerdy and likes long conversations around these subjec
 📍 Hyderabad &emsp;&emsp;&emsp;&emsp; 🎓 Computer Engineering &emsp;&emsp;&emsp;&emsp; 🏫 Thapar Institute of Engineering and Technology
 
 --- 
+
 [Alan Turing](/blogs/6-april-2022.md) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   06 April 2022
 
 3:18 PM \
@@ -44,6 +45,8 @@ Thanks, \
 Syed Amaan
 
 ---
+
+I write my thoughts, here are some more - \
 
 
 
