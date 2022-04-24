@@ -8,4 +8,4 @@ If you are someone who is nerdy and likes long conversations around these subjec
 
 📍 Hyderabad      🎓 Computer Engineering      🏫 Thapar Institute of Engineering and Technology
 
-![syedamaan](/images/IMG_0504.JPG) ![syedamaan2]()
+![syedamaan](/images/IMG_0504.JPG) ![syedamaan2](images/amaan%20pic.png)
