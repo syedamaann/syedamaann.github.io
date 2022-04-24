@@ -1,5 +1,3 @@
-# syedamaann.github.io
-
-##Syed Amaan
+# syed amaan
 ---
 
