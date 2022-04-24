@@ -13,7 +13,6 @@ If you are someone who is nerdy and likes long conversations around these subjec
 
 --- 
 
-[Alan Turing](/blogs/6-april-2022.md) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   06 April 2022
 
 3:18 PM \
 6th April 2022
@@ -46,9 +45,11 @@ Syed Amaan
 
 ---
 
-I write my thoughts, here are some more - \
+I write my thoughts, here are some more - 
+
 [Alan Turing](/blogs/6-april-2022.md) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   06 April 2022
-[Union of Engineering and Biology]() &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; second half, 2021
+
+[Union of Engineering and Biology](/blogs/Amazing%20Union%20of%20Biology%20%26%20Engineering.md) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  2021
 
 
 
